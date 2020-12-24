@@ -37,7 +37,6 @@ killaura:
 
   # Modules used in the KillAura checks
   modules:
-    # OneHit check: Detects some bla
     # Protocol check: Ensure combat is following vanilla styles.
     protocol:
       # Cancel the hit if detected.
